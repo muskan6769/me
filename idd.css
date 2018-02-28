@@ -1,0 +1,122 @@
+body{
+    background-image: url("images/imm.jpg");
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment:fixed;
+    background-position: center;
+    
+}
+
+
+.i1{
+	height: 500px;
+	background: -webkit-linear-gradient(goldenrod, tomato 110%);
+}
+#main{
+	width:100%;
+    background: -webkit-linear-gradient(goldenrod, tomato 110%);
+    margin-top: 350px;
+    padding: 25px 0px 25px 0px;
+    
+}
+
+#main2{
+	width:100%;
+	margin-top: 200px;
+	background: -webkit-linear-gradient(goldenrod, tomato 110%);
+	padding: 30px 0px 30px 0px;
+        
+}
+
+a{
+	margin-left: 20px;
+}
+#main p{
+	line-height: 1.8;
+	margin-left: 20px;
+}
+#main2 p{
+	color:purple;
+	margin-left:20px;
+}
+.main3 h4{
+  text-align: center;
+}
+.main3{
+	margin-top: 200px;
+	width:100%;
+	background: -webkit-linear-gradient(goldenrod, tomato 110%);
+	
+	padding: 25px 0px 25px 0px;
+}
+.flex{
+	border: 1px solid black;
+	padding: 10px;
+	position: fixed;
+        box-shadow: 5px 5px;
+        margin-top: -350px;
+        background-color: white;
+        width: 100%;
+}
+.p11{
+	width:100%;
+	background-color:lightgrey;
+	height: 30px;
+	text-align: center;
+	color:white;
+
+}
+
+.p1a{
+	width:80%;
+	background-color:DimGrey;
+	height: 30px;
+    padding:5px;
+    box-sizing: border-box;
+}
+.p1b{
+	width:50%;
+	background-color:DimGrey;
+	height: 30px;
+	padding:5px;
+    box-sizing: border-box;
+}
+#sport,#wd{
+	margin-top: 100px;
+        background: -webkit-linear-gradient(goldenrod, tomato 110%);
+	padding: 25px 0px 25px 0px;
+}
+#sport p,#wd p{
+	margin-left: 20px;
+	color:purple;
+}
+#cont img {
+	height: 300px;
+	width: 400px;
+	float: left;
+	margin-left: 100px;
+}
+#cont{
+	width:100%;
+	background: -webkit-linear-gradient(goldenrod, tomato 110%);
+	margin-top: 200px;
+	height: 300px;
+	padding: 25px 0px 25px 0px;
+}
+#cont p,#cont h1{
+    margin-left: 550px;
+
+}
+#cont p{
+     color:purple;
+}
+.flex{
+	background-color: pink;
+}
+
+.flex a:hover{
+	background-color: lightgrey;
+}
+
+
